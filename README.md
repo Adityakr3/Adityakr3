@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aditya kumar</h1>
-<h3 align="center">Hi, I'm Ye Chan. I'm developing to make services that will improve our lives.</h3>
+<h3 align="center">Hi, I'm Aditya kumar. I'm developing to make services that will improve our lives.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakr3&label=Profile%20views&color=0e75b6&style=flat" alt="adityakr3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityakr3" alt="adityakr3" /></a> </p>
