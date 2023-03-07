@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Aditya kumar</h1>
 <h3 align="center">Hi, I'm Ye Chan. I'm developing to make services that will improve our lives.</h3>
