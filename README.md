@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Moctech page]  
   
 
-- 🌱 I’m currently learning java script and react.js  
+- 🌱 I’m currently learning java script and node.js  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
