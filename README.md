@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Aditya kumar , a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Aditya kumar , a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Moctech page]  
