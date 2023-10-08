@@ -12,7 +12,7 @@
 ### <div align="center">I'm Aditya kumar , a full-time full-stack freelance developer 👨‍💻 working since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Mechanic On click page]  
+- 🔭 I’m currently working on [Goggle docs]  
   
 
 - 🌱 I’m currently learning java script and node.js  
