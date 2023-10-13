@@ -23,8 +23,11 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
+<br/>
 
-<br/>  
+<div align="center">
+  <img height="320" width="99%" src="https://holopin.me/adityakr3"/>
+</div>
 
 
 ## My Skill Set  
