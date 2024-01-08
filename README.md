@@ -1,8 +1,3 @@
-<div id="slide2" class="slide">
-   <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-   <lottie-player src="./data.json" background="transparent" speed="2" style=" height: 600px;" loop autoplay></lottie-player>
-</div>
-
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%"  "hight:50%"/>
