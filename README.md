@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img height="320" width="99%" src="https://holopin.io/@adityakr3"/>
+  <img height="320" width="99%" src="https://holopin.me/adityakr3"/>
 </div>
 
 
