@@ -7,7 +7,7 @@
 ### <div align="center">I'm Aditya kumar , a full-time full-stack freelance developer 👨‍💻 working since 2021 🚀</div>  
   
 
-- 🌱 I’m currently learning java script and node.js  
+- 🌱 I’m currently learning redux , mongoDb and node.js  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
