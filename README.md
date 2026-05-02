@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack MERN Engineer | Freelancer | Building Real-World Products</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=I+build+scalable+web+products;MERN+Stack+Specialist;Freelancer+since+2021;Turning+ideas+into+real+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=I+build+scalable+web+products;MERN+Stack+Specialist;Freelancer+since+2022;Turning+ideas+into+real+systems" />
 </p>
 
 <p align="center">
