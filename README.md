@@ -1,82 +1,84 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">🚀 Full-Stack MERN Developer | Freelancer since 2021</h3>
+<!-- HERO SECTION -->
+<h1 align="center">Aditya Kumar ⚡</h1>
+<h3 align="center">Full-Stack MERN Engineer | Freelancer | Building Real-World Products</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps;Freelancer+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=I+build+scalable+web+products;MERN+Stack+Specialist;Freelancer+since+2021;Turning+ideas+into+real+systems" />
 </p>
-
----
-
-## 👨‍💻 About Me  
-- 💼 Full-time **Freelance Developer (since 2021)**  
-- 🌱 Currently learning **Redux, MongoDB & Node.js deeply**  
-- 💬 Ask me about **MERN Stack, Frontend, APIs, UI/UX**  
-- ⚡ Fun fact: **Tabs > Spaces 😎**
-
----
-
-## 🛠️ Tech Stack  
-
-### 🚀 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### 📱 Other Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,flutter,dart,android" />
-</p>
-
-### 🔧 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityakr3&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityakr3&theme=tokyonight&hide_border=true" />
+  <a href="#"><img src="https://img.shields.io/badge/Available%20for-Freelance-success?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Focus-High%20Performance%20Apps-blue?style=for-the-badge"/></a>
 </p>
 
 ---
 
-## 🏆 Achievements & Activity  
+# 🧠 About Me (Positioning that sells)
+
+I’m not just a developer—I build **production-ready systems**.
+
+- 🧩 3+ years of real-world development  
+- 💼 Worked on **client + product-based platforms**  
+- ⚙️ Strong in **frontend architecture + backend logic**  
+- 🚀 Focus: **speed, scalability, and clean UI**
+
+---
+
+# 💼 Services (Client Attraction Section)
+
+✔️ Full-stack Web App Development  
+✔️ SaaS Dashboard Development  
+✔️ API Design & Integration  
+✔️ Bug Fixing + Performance Optimization  
+✔️ UI/UX Improvements  
+
+---
+
+# 🛠️ Tech Stack (Clean + Powerful)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityakr3&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,js,html,css,tailwind,firebase,git,github,vscode,java,c,flutter,dart" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+# 🚀 Featured Projects (THIS is what makes you elite)
+
+## 🧾 Quotation & Invoice Generator  
+- Dynamic PDF generation  
+- GST, discount & cost calculation  
+- Professional invoice layout  
+- React + Tailwind  
+
+## 🛒 E-commerce Collection Page  
+- API-based product listing  
+- Sorting + animations  
+- Skeleton loaders  
+- Responsive UI  
+
+## 📡 Real-time Device Tracker  
+- Live tracking using Socket.io  
+- Map integration (Leaflet)  
+- Real-time updates  
+
+## 📁 Folder Structure Generator  
+- Tree-based UI system  
+- CRUD operations  
+- Dynamic rendering  
+
+---
+
+# 📊 GitHub Analytics (Trust Builder)
 
 <p align="center">
-  <a href="https://github.com/Adityakr3"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/aditya-kumar"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityakr3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityakr3&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adityakr3&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+# 🧠 Engineering Philosophy  
 
----
-
-## 💡 Quote  
-
-> "Code is not just code, it's a solution to someone's problem."
-
----
-
-<p align="center">🔥 Built with passion by Aditya Kumar</p>
+```text
+Clean code. Scalable systems. Real impact.
+I build things that actually work in production.
