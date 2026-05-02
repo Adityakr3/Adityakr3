@@ -1,92 +1,82 @@
+<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
+<h3 align="center">🚀 Full-Stack MERN Developer | Freelancer since 2021</h3>
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%"  "hight:50%"/>
-</div>  
-  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps;Freelancer+%7C+Problem+Solver" />
+</p>
 
-### <div align="center">I'm Aditya kumar , a full-time full-stack freelance developer 👨‍💻 working since 2021 🚀</div>  
-  
+---
 
-- 🌱 I’m currently learning redux , mongoDb and node.js  
-  
+## 👨‍💻 About Me  
+- 💼 Full-time **Freelance Developer (since 2021)**  
+- 🌱 Currently learning **Redux, MongoDB & Node.js deeply**  
+- 💬 Ask me about **MERN Stack, Frontend, APIs, UI/UX**  
+- ⚡ Fun fact: **Tabs > Spaces 😎**
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+---
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-<br/>
+## 🛠️ Tech Stack  
 
-<div align="center">
-  <img height="320" width="99%" src="https://holopin.me/adityakr3"/>
-</div>
+### 🚀 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
 
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="99%">
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+### 📱 Other Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,flutter,dart,android" />
+</p>
 
-</td></tr></table>  
+### 🔧 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-<br/>  
+---
 
+## 📊 GitHub Stats  
 
-## Connect with me  
-<div align="center">
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Adityakr3" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ADITYA KUMAR" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/Aayan raj adi" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityakr3&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityakr3&theme=tokyonight&hide_border=true" />
+</p>
 
-<br/>  
+---
 
+## 🏆 Achievements & Activity  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Adityakr3&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityakr3&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
 
-<br/>  
+---
 
+## 🌐 Connect With Me  
 
-## Recent Blog Posts  
-  
+<p align="center">
+  <a href="https://github.com/Adityakr3"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/aditya-kumar"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://instagram.com/yourusername"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</p>
 
-<br/>  
+---
 
-  
+## 👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adityakr3&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<br/>  
+---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Adityakr3&&style=flat-square" align="center" />
-</div>  
-  
+## 💡 Quote  
 
-<br/>  
+> "Code is not just code, it's a solution to someone's problem."
 
+---
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">🔥 Built with passion by Aditya Kumar</p>
